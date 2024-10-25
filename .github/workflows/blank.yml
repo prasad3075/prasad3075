@@ -1,4 +1,4 @@
-name: Fetch Public IP Using Puppeteer and Tor
+name: Fetch Public IP Using Puppeteer and Tora
 
 on:
   push:
